@@ -1,0 +1,160 @@
+
+Mosquito Rising.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 759
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 891, 916
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+ear-left
+  rotate: false
+  xy: 183, 843
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+ear-right
+  rotate: false
+  xy: 129, 763
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 61, 617
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eyelid-0
+  rotate: true
+  xy: 105, 692
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+eyelid-1
+  rotate: true
+  xy: 162, 773
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+eyelid-2
+  rotate: false
+  xy: 891, 890
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+fence
+  rotate: false
+  xy: 129, 799
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 183, 818
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 1, 879
+  size: 800, 96
+  orig: 800, 96
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 643
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+iris
+  rotate: false
+  xy: 61, 605
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+mosquito
+  rotate: false
+  xy: 1, 540
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+mosquito-wing
+  rotate: false
+  xy: 803, 879
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+mouth-frown
+  rotate: false
+  xy: 947, 956
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+mouth-oh
+  rotate: false
+  xy: 31, 569
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+mouth-smile
+  rotate: true
+  xy: 105, 718
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+mouth-smirk
+  rotate: false
+  xy: 216, 868
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1, 583
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+pain
+  rotate: false
+  xy: 803, 889
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1, 552
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,93 @@
+
+mosquito-rising.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 1, 49
+  size: 151, 46
+  split: 3, 3, 3, 3
+  pad: 5, 5, 5, 5
+  orig: 151, 46
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 208, 257
+  size: 151, 46
+  split: 3, 3, 3, 3
+  pad: 5, 5, 5, 5
+  orig: 151, 46
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 1
+  size: 151, 46
+  split: 3, 3, 3, 3
+  pad: 5, 5, 5, 5
+  orig: 151, 46
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 97
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 154, 43
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1, 480
+  size: 434, 12
+  split: 28, 29, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 434, 12
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 361, 267
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+slider-knob-over
+  rotate: false
+  xy: 154, 5
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+slider-knob-pressed
+  rotate: false
+  xy: 208, 149
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 305
+  size: 416, 173
+  orig: 416, 173
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 208, 187
+  size: 36, 68
+  split: 1, 1, 33, 1
+  pad: 3, 3, 35, 3
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
